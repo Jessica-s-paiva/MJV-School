@@ -1,5 +1,5 @@
 .container{
-    background-image: url("https://i.pinimg.com/564x/d7/16/1e/d7161e2b9830a4e4c742f25abe58910e.jpg");
+    background-image: url("https://i.pinimg.com/originals/53/5f/85/535f8592a77ad727004eb3090aac545b.gif");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -10,16 +10,8 @@
     height: 625px;
 }
 
-.anel{
-    max-width: 300px;
-    width: 100%;
-   /* display: inline-block;
-   border-radius: 50%;*/
-   transform:  rotate(-90deg);
-   transition-duration: 2s;
-   border-radius: 50%;
-}
-
 p{
     width: 900px;
+    font-size: 20px;
+    margin-top: 150px;
 }
