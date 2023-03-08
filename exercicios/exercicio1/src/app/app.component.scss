@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.anel{
+    max-width: 200px;
+    width: 100%;
+   /* display: inline-block;
+   border-radius: 50%;*/
+   transform:  rotate(-90deg);
+   transition-duration: 2s;
+}
+
+p{
+    width: 800px;
+}
